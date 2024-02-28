@@ -1,6 +1,6 @@
 ### About me  
 <h1 align="center">Hi 👋, I'm mintae Kim.</h1>
-<h3 align="center">I am working with the mission of change the world a better than yesterday!</h3>
+<h3 align="center">I am planning for a better world than yesterday.</h3>
 
 - 📫 How to reach me **to4286@naver.com**
 
