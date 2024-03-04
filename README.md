@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm mintae Kim.</h1>
 <h3 align="center">I am planning for a better world than yesterday.</h3>
 
-- 📫 How to reach me **to4286@naver.com**
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
