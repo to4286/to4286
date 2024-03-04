@@ -16,7 +16,7 @@
   <a>
     <img src="https://img.shields.io/badge/to4286@naver.com-42C72C?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:kimmintae0316@gmail.com">
+  <a>
     <img
       src="https://img.shields.io/badge/kimmintae0316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
