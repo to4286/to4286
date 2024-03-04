@@ -12,6 +12,9 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
+  <a href="https://velog.io/@oka1313">
+    <img src="https://img.shields.io/badge/naver-42C72C?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+  </a>
   <a href="mailto:kimmintae0316@gmail.com">
     <img
       src="https://img.shields.io/badge/kimmintae0316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
