@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
