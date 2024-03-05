@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/bubble-0166DD?style=for-the-badge&logo=bubble&logoColor=white" />&nbsp
+</div>
+
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
