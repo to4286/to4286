@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/bubble-0166DD?style=for-the-badge&logo=bubble&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/orange3-0166DD?style=for-the-badge&logo=orange3&logoColor=white" />&nbsp
 </div>
 
 <br>
