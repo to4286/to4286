@@ -12,10 +12,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/orange3-0166DD?style=for-the-badge&logo=orange3&logoColor=white" />&nbsp
-</div>
-
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
