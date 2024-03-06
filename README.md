@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/oracle-F3F3F3.svg?style=for-the-badge&logo=oracle&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/oracle-C60606.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Slack-8613F9.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
