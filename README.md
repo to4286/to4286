@@ -1,4 +1,4 @@
-### About me  
+
 <h1 align="center">Hi 👋, I'm mintae Kim.</h1>
 <h3 align="center">I am planning for a better world than yesterday.</h3>
 
